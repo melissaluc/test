@@ -1,0 +1,143 @@
+[
+  {
+    "category": "Arts",
+    "search_terms": [
+      "fine art", "public art", "painting", "air", "art classes", "arrears",
+      "performing arts", "visual arts", "art centres", "art programs",
+      "theatrical performances", "art therapy", "art organizations",
+      "arts and culture", "art facilities", "art workshops",
+      "theatrical productions", "arts programs", "performing arts centres",
+      "performing arts facilities", "arts centres",
+      "arts and culture organizations", "art councils", "sidewalk artists",
+      "arts groups", "outdoor art", "art galleries (facilities)", "entertainers"
+    ]
+  },
+  {
+    "category": "Bikes",
+    "search_terms": [
+      "bicycles", "bikes", "cyclists", "BMX", "cycling", "bicycling",
+      "BMX bike riders", "bike parking", "motorcycles", "electric bikes",
+      "bicycles (abandoned)", "bicycle parking", "electric bicycles", "e-bikes",
+      "bicycle racks", "BMX bike parks", "cycling ambassadors", "bike courses",
+      "bicycle sharing", "bike o-rings", "bicycle stations", "bicycle lanes",
+      "cycling accidents", "bike locker", "bike rentals", "bicycle rentals",
+      "electric-assisted bikes", "bike lanes"
+    ]
+  },
+  {
+    "category": "Business",
+    "search_terms": [
+      "commercial", "commercial landlords", "corporate sponsorship",
+      "corporate campaigns", "industry", "employers", "commercial tenants",
+      "corporations", "manufacturing industry", "business start-up",
+      "sidewalk vending", "street vending", "BIA", "business start up",
+      "bake shops", "corporate bodies", "merchandise displays", "shops",
+      "businesses", "small businesses", "curblane vending"
+    ]
+  },
+  {
+    "category": "Childcare",
+    "search_terms": [
+      "preschool learning", "child care", "preschool education",
+      "day nurseries", "preschools", "day cares", "child rearing",
+      "child care centres", "child care financial assistance",
+      "child care fee subsidy", "early childhood education",
+      "subsidized day care", "childcare", "preschool programs", "nursery schools",
+      "home child care providers", "child care facilities", "child care agencies",
+      "child care subsidy", "after school care", "summer day camps",
+      "financial assistance for child care", "subsidized child care",
+      "pre-school programs"
+    ]
+  },
+  {
+    "category": "Climate",
+    "search_terms": [
+      "climate", "climate change", "greenhouse effect",
+      "greenhouse gas emissions", "climate protection", "environmental policy",
+      "environmental policies", "environmental impact", "winter maintenance",
+      "environmental impacts", "environmental initiatives"
+    ]
+  },
+  {
+    "category": "Construction",
+    "search_terms": [
+      "bridge construction", "builders", "sidewalk brick installation",
+      "road construction", "construction", "road reconstruction",
+      "bridge reconstruction", "build toronto", "rebuilding", "building permits",
+      "building permit fees", "scaffolding", "reconstruction",
+      "construction permits (right-of-way)", "building plans",
+      "building regulations consultant", "building regulation consultants",
+      "residential infill", "redevelopment", "developing land",
+      "development", "development charges"
+    ]
+  },
+  {
+    "category": "Cost of Living",
+    "search_terms": [
+      "rent", "fares", "rent reduction", "financial subsidy",
+      "subsidized housing", "subsidized child care",
+      "government subsidized prescription drug benefits", "subsidized rent",
+      "poverty", "economic indicators"
+    ]
+  },
+  {
+    "category": "Democracy",
+    "search_terms": [
+      "civic engagement", "people in government", "early voting",
+      "elections", "public participation", "voting", "advance vote",
+      "by elections", "voters", "election results", "voting system reform"
+    ]
+  },
+  {
+    "category": "Dogs",
+    "search_terms": [
+      "dogs", "dog bites", "dog licenses", "dog licences",
+      "dog walker", "dog parks", "dogs off-leash areas",
+      "dog off-leash areas", "dog tags", "leash free dog walking areas"
+    ]
+  },
+  {
+    "category": "Energy",
+    "search_terms": [
+      "electricity", "electric power", "wind turbines", "nuclear power",
+      "electricity usage", "energy", "hydro wires", "hydro meters",
+      "energy reduction", "energy use"
+    ]
+  },
+  {
+    "category": "Equity",
+    "search_terms": [
+      "equity", "employment equity", "pay equity", "fair wage",
+      "visible minorities"
+    ]
+  },
+  {
+    "category": "Healthcare",
+    "search_terms": [
+      "hospitals", "health", "pharmaceutical industry", "patient care",
+      "hospital beds", "nursing facilities", "emergency medical services",
+      "walk-in clinics", "paramedics", "public health", "flu shots"
+    ]
+  },
+  {
+    "category": "Homelessness",
+    "search_terms": [
+      "homeless", "homelessness", "homeless individuals",
+      "homeless needs assessment", "persons who are homeless",
+      "homeless encampments", "hostels (homeless)", "homeless shelters"
+    ]
+  },
+  {
+    "category": "Housing",
+    "search_terms": [
+      "condos", "infill housing", "homes", "residential tenants",
+      "residential multi unit dwellings", "alternative housing",
+      "multi-unit buildings", "tenants", "subsidized housing",
+      "subsidized rent", "basement apartments", "townhouses",
+      "granny flats", "condominiums", "boarding houses", "single family homes",
+      "apartments", "houses", "single family dwellings",
+      "single family residences", "housing", "homes", "low income housing",
+      "public housing", "residential tenants"
+    ]
+  }
+]
